@@ -1,0 +1,407 @@
+[
+    {
+        "version": "classification_v1.txt",
+        "ticket_id": 1,
+        "ticket": "I was charged twice for my monthly subscription.",
+        "expected_category": "Billing",
+        "expected_priority": "High",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v1.txt",
+        "ticket_id": 2,
+        "ticket": "I want to know when my next invoice will be generated.",
+        "expected_category": "Billing",
+        "expected_priority": "Low",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v1.txt",
+        "ticket_id": 3,
+        "ticket": "My payment failed even though I have sufficient balance.",
+        "expected_category": "Billing",
+        "expected_priority": "High",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v1.txt",
+        "ticket_id": 4,
+        "ticket": "Please send me a copy of my previous invoice.",
+        "expected_category": "Billing",
+        "expected_priority": "Low",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v1.txt",
+        "ticket_id": 5,
+        "ticket": "I was charged an incorrect amount on my credit card.",
+        "expected_category": "Billing",
+        "expected_priority": "Medium",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v1.txt",
+        "ticket_id": 6,
+        "ticket": "The application crashes every time I open it.",
+        "expected_category": "Technical",
+        "expected_priority": "High",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v1.txt",
+        "ticket_id": 7,
+        "ticket": "The website takes too long to load.",
+        "expected_category": "Technical",
+        "expected_priority": "Medium",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v1.txt",
+        "ticket_id": 8,
+        "ticket": "I cannot upload my documents because of an error.",
+        "expected_category": "Technical",
+        "expected_priority": "High",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v1.txt",
+        "ticket_id": 9,
+        "ticket": "The search button is not working properly.",
+        "expected_category": "Technical",
+        "expected_priority": "Medium",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v1.txt",
+        "ticket_id": 10,
+        "ticket": "The application displays a spelling mistake on the home page.",
+        "expected_category": "Technical",
+        "expected_priority": "Low",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v1.txt",
+        "ticket_id": 11,
+        "ticket": "I cannot log in even after resetting my password.",
+        "expected_category": "Account",
+        "expected_priority": "High",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v1.txt",
+        "ticket_id": 12,
+        "ticket": "I want to update my registered email address.",
+        "expected_category": "Account",
+        "expected_priority": "Medium",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v1.txt",
+        "ticket_id": 13,
+        "ticket": "Please help me delete my account.",
+        "expected_category": "Account",
+        "expected_priority": "Medium",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v1.txt",
+        "ticket_id": 14,
+        "ticket": "How can I change my profile picture?",
+        "expected_category": "Account",
+        "expected_priority": "Low",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v1.txt",
+        "ticket_id": 15,
+        "ticket": "My account has been locked due to suspicious login activity.",
+        "expected_category": "Account",
+        "expected_priority": "High",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v2.txt",
+        "ticket_id": 1,
+        "ticket": "I was charged twice for my monthly subscription.",
+        "expected_category": "Billing",
+        "expected_priority": "High",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v2.txt",
+        "ticket_id": 2,
+        "ticket": "I want to know when my next invoice will be generated.",
+        "expected_category": "Billing",
+        "expected_priority": "Low",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v2.txt",
+        "ticket_id": 3,
+        "ticket": "My payment failed even though I have sufficient balance.",
+        "expected_category": "Billing",
+        "expected_priority": "High",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v2.txt",
+        "ticket_id": 4,
+        "ticket": "Please send me a copy of my previous invoice.",
+        "expected_category": "Billing",
+        "expected_priority": "Low",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v2.txt",
+        "ticket_id": 5,
+        "ticket": "I was charged an incorrect amount on my credit card.",
+        "expected_category": "Billing",
+        "expected_priority": "Medium",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v2.txt",
+        "ticket_id": 6,
+        "ticket": "The application crashes every time I open it.",
+        "expected_category": "Technical",
+        "expected_priority": "High",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v2.txt",
+        "ticket_id": 7,
+        "ticket": "The website takes too long to load.",
+        "expected_category": "Technical",
+        "expected_priority": "Medium",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v2.txt",
+        "ticket_id": 8,
+        "ticket": "I cannot upload my documents because of an error.",
+        "expected_category": "Technical",
+        "expected_priority": "High",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v2.txt",
+        "ticket_id": 9,
+        "ticket": "The search button is not working properly.",
+        "expected_category": "Technical",
+        "expected_priority": "Medium",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v2.txt",
+        "ticket_id": 10,
+        "ticket": "The application displays a spelling mistake on the home page.",
+        "expected_category": "Technical",
+        "expected_priority": "Low",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v2.txt",
+        "ticket_id": 11,
+        "ticket": "I cannot log in even after resetting my password.",
+        "expected_category": "Account",
+        "expected_priority": "High",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v2.txt",
+        "ticket_id": 12,
+        "ticket": "I want to update my registered email address.",
+        "expected_category": "Account",
+        "expected_priority": "Medium",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v2.txt",
+        "ticket_id": 13,
+        "ticket": "Please help me delete my account.",
+        "expected_category": "Account",
+        "expected_priority": "Medium",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v2.txt",
+        "ticket_id": 14,
+        "ticket": "How can I change my profile picture?",
+        "expected_category": "Account",
+        "expected_priority": "Low",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v2.txt",
+        "ticket_id": 15,
+        "ticket": "My account has been locked due to suspicious login activity.",
+        "expected_category": "Account",
+        "expected_priority": "High",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v3.txt",
+        "ticket_id": 1,
+        "ticket": "I was charged twice for my monthly subscription.",
+        "expected_category": "Billing",
+        "expected_priority": "High",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v3.txt",
+        "ticket_id": 2,
+        "ticket": "I want to know when my next invoice will be generated.",
+        "expected_category": "Billing",
+        "expected_priority": "Low",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v3.txt",
+        "ticket_id": 3,
+        "ticket": "My payment failed even though I have sufficient balance.",
+        "expected_category": "Billing",
+        "expected_priority": "High",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v3.txt",
+        "ticket_id": 4,
+        "ticket": "Please send me a copy of my previous invoice.",
+        "expected_category": "Billing",
+        "expected_priority": "Low",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v3.txt",
+        "ticket_id": 5,
+        "ticket": "I was charged an incorrect amount on my credit card.",
+        "expected_category": "Billing",
+        "expected_priority": "Medium",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v3.txt",
+        "ticket_id": 6,
+        "ticket": "The application crashes every time I open it.",
+        "expected_category": "Technical",
+        "expected_priority": "High",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v3.txt",
+        "ticket_id": 7,
+        "ticket": "The website takes too long to load.",
+        "expected_category": "Technical",
+        "expected_priority": "Medium",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v3.txt",
+        "ticket_id": 8,
+        "ticket": "I cannot upload my documents because of an error.",
+        "expected_category": "Technical",
+        "expected_priority": "High",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v3.txt",
+        "ticket_id": 9,
+        "ticket": "The search button is not working properly.",
+        "expected_category": "Technical",
+        "expected_priority": "Medium",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v3.txt",
+        "ticket_id": 10,
+        "ticket": "The application displays a spelling mistake on the home page.",
+        "expected_category": "Technical",
+        "expected_priority": "Low",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v3.txt",
+        "ticket_id": 11,
+        "ticket": "I cannot log in even after resetting my password.",
+        "expected_category": "Account",
+        "expected_priority": "High",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v3.txt",
+        "ticket_id": 12,
+        "ticket": "I want to update my registered email address.",
+        "expected_category": "Account",
+        "expected_priority": "Medium",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v3.txt",
+        "ticket_id": 13,
+        "ticket": "Please help me delete my account.",
+        "expected_category": "Account",
+        "expected_priority": "Medium",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v3.txt",
+        "ticket_id": 14,
+        "ticket": "How can I change my profile picture?",
+        "expected_category": "Account",
+        "expected_priority": "Low",
+        "predicted": null,
+        "correct": false
+    },
+    {
+        "version": "classification_v3.txt",
+        "ticket_id": 15,
+        "ticket": "My account has been locked due to suspicious login activity.",
+        "expected_category": "Account",
+        "expected_priority": "High",
+        "predicted": null,
+        "correct": false
+    }
+]

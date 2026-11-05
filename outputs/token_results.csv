@@ -1,0 +1,6 @@
+Text Type,Words,Tokens,Words Per Token,Fits 8K,Fits 128K
+Sentence,7,8,0.875,True,True
+Paragraph,19,24,0.7917,True,True
+Page,660,782,0.844,True,True
+JSON,3,29,0.1034,True,True
+Tamil,4,53,0.0755,True,True

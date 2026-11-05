@@ -1,0 +1,5 @@
+Family,Owner,Weights,Context,Strengths,Source
+GPT,OpenAI,Closed,Up to 1M tokens (GPT-4.1),"Reasoning, coding, instruction following",https://developers.openai.com/api/docs/models/gpt-4.1
+Claude,Anthropic,Closed,200K or 1M depending on model,"Writing, reasoning, long documents",https://platform.claude.com/docs/en/build-with-claude/context-windows
+Llama,Meta,Open-weight,4K to 10M depending on release,"Self-hosting, customization, privacy",https://github.com/meta-llama/llama-models
+Gemini,Google,Closed,Up to 1M tokens (Gemini 2.5 Flash),"Multimodal tasks, long context, speed",https://ai.google.dev/gemini-api/docs/models

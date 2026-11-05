@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "text": "I was charged twice for my monthly subscription.",
+    "category": "Billing",
+    "priority": "High"
+  },
+  {
+    "id": 2,
+    "text": "I want to know when my next invoice will be generated.",
+    "category": "Billing",
+    "priority": "Low"
+  },
+  {
+    "id": 3,
+    "text": "My payment failed even though I have sufficient balance.",
+    "category": "Billing",
+    "priority": "High"
+  },
+  {
+    "id": 4,
+    "text": "Please send me a copy of my previous invoice.",
+    "category": "Billing",
+    "priority": "Low"
+  },
+  {
+    "id": 5,
+    "text": "I was charged an incorrect amount on my credit card.",
+    "category": "Billing",
+    "priority": "Medium"
+  },
+  {
+    "id": 6,
+    "text": "The application crashes every time I open it.",
+    "category": "Technical",
+    "priority": "High"
+  },
+  {
+    "id": 7,
+    "text": "The website takes too long to load.",
+    "category": "Technical",
+    "priority": "Medium"
+  },
+  {
+    "id": 8,
+    "text": "I cannot upload my documents because of an error.",
+    "category": "Technical",
+    "priority": "High"
+  },
+  {
+    "id": 9,
+    "text": "The search button is not working properly.",
+    "category": "Technical",
+    "priority": "Medium"
+  },
+  {
+    "id": 10,
+    "text": "The application displays a spelling mistake on the home page.",
+    "category": "Technical",
+    "priority": "Low"
+  },
+  {
+    "id": 11,
+    "text": "I cannot log in even after resetting my password.",
+    "category": "Account",
+    "priority": "High"
+  },
+  {
+    "id": 12,
+    "text": "I want to update my registered email address.",
+    "category": "Account",
+    "priority": "Medium"
+  },
+  {
+    "id": 13,
+    "text": "Please help me delete my account.",
+    "category": "Account",
+    "priority": "Medium"
+  },
+  {
+    "id": 14,
+    "text": "How can I change my profile picture?",
+    "category": "Account",
+    "priority": "Low"
+  },
+  {
+    "id": 15,
+    "text": "My account has been locked due to suspicious login activity.",
+    "category": "Account",
+    "priority": "High"
+  }
+]

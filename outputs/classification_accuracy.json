@@ -1,0 +1,20 @@
+{
+    "classification_v1.txt": {
+        "correct": 0,
+        "total": 15,
+        "accuracy": 0.0,
+        "completed": 0
+    },
+    "classification_v2.txt": {
+        "correct": 0,
+        "total": 15,
+        "accuracy": 0.0,
+        "completed": 0
+    },
+    "classification_v3.txt": {
+        "correct": 0,
+        "total": 15,
+        "accuracy": 0.0,
+        "completed": 0
+    }
+}

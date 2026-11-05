@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "text": "Rahul Sharma is a Python developer with 3 years of experience. He has skills in Python, Django, SQL and REST API development.",
+    "expected": {
+      "name": "Rahul Sharma",
+      "skills": ["Python", "Django", "SQL", "REST API"],
+      "years_experience": 3
+    }
+  },
+  {
+    "id": 2,
+    "text": "Priya Kumar is a data analyst with 5 years of experience. Her technical skills include Excel, SQL, Power BI, Python and data visualization.",
+    "expected": {
+      "name": "Priya Kumar",
+      "skills": ["Excel", "SQL", "Power BI", "Python", "Data Visualization"],
+      "years_experience": 5
+    }
+  },
+  {
+    "id": 3,
+    "text": "Arun Kumar is a frontend developer with 2 years of experience. He works with HTML, CSS, JavaScript and React.",
+    "expected": {
+      "name": "Arun Kumar",
+      "skills": ["HTML", "CSS", "JavaScript", "React"],
+      "years_experience": 2
+    }
+  },
+  {
+    "id": 4,
+    "text": "Sneha Patel is a machine learning engineer with 4 years of experience. She has experience in Python, TensorFlow, PyTorch, machine learning and NLP.",
+    "expected": {
+      "name": "Sneha Patel",
+      "skills": ["Python", "TensorFlow", "PyTorch", "Machine Learning", "NLP"],
+      "years_experience": 4
+    }
+  },
+  {
+    "id": 5,
+    "text": "Vikram Singh is a cloud engineer with 6 years of experience. His skills include AWS, Docker, Kubernetes, Linux and CI/CD.",
+    "expected": {
+      "name": "Vikram Singh",
+      "skills": ["AWS", "Docker", "Kubernetes", "Linux", "CI/CD"],
+      "years_experience": 6
+    }
+  }
+]

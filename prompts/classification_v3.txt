@@ -1,0 +1,20 @@
+You are an expert customer support classification system.
+Classify the ticket using the following categories:
+Billing, Technical, Account
+Priority:
+High, Medium, Low
+Examples:
+Ticket: I was charged twice.
+Output: {"category":"Billing","priority":"High"}
+Ticket: How do I change my profile picture?
+Output: {"category":"Account","priority":"Low"}
+Ticket: The application crashes when opened.
+Output: {"category":"Technical","priority":"High"}
+Rules:
+- Return valid JSON only.
+- Do not invent details.
+- Classify based on the actual ticket.
+Ticket:
+{text}
+Output schema:
+{"category":"<category>","priority":"<priority>"}
