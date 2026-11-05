@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Week 4 LLM Assessment
 Project Overview
 
@@ -109,3 +110,7 @@ A Python project covering LLM fundamentals, tokenization, cost estimation, model
 # Week4_LLM_Assessment
 A Python project covering LLM fundamentals, tokenization, cost estimation, model capabilities, limitations, transformer architecture, self-attention, positional encoding, and prompt engineering using NumPy, Tiktoken, Hugging Face, OpenAI API, and Pydantic.
 >>>>>>> e787a1e19e2cc4f2152f1bd3b3a3a478dc371e3b
+=======
+# Week4_LLM_Assessment
+A Python project covering LLM fundamentals, tokenization, cost estimation, model capabilities, limitations, transformer architecture, self-attention, positional encoding, and prompt engineering using NumPy, Tiktoken, Hugging Face, OpenAI API, and Pydantic.
+>>>>>>> 18ada94873f4b6fe34cec659b968bf2d30441d1e
